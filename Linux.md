@@ -6,11 +6,11 @@ Please keep in mind that marne on linux is experimental.
 
 2.Go to game files and then rename `EAAntiCheat.GameServiceLauncher.exe` to `EAAntiCheat.GameServiceLauncher.exe.bak` (Not 100% sure but this file tends to regenerate)
 
-3.Download and then put both of these files to battlefield 1 game root directory
+3.Download and then put both of these files to battlefield 1's root directory
 
-https://github.com/silkker/MARNE/raw/refs/heads/main/dinput8.dll
+[dinput8.dll](https://github.com/silkker/MARNE/raw/refs/heads/main/dinput8.dll)
 
-https://github.com/silkker/MARNE/raw/refs/heads/main/Marne.dll
+[Marne.dll](https://github.com/silkker/MARNE/raw/refs/heads/main/Marne.dll)
 
 3.Add the following launch option to steam (or just add as dlloverrides) 
 
@@ -18,7 +18,7 @@ https://github.com/silkker/MARNE/raw/refs/heads/main/Marne.dll
 WINEDLLOVERRIDES="dinput8=n,b;Marne=n,b" %command%
 ```
 
-5.Install [vcrun2017x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) 
+5.Install [vcrun_2017_x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) to your wineprefix
 
 6.Download [Marne](https://raw.githubusercontent.com/silkker/MARNE/refs/heads/main/MarneLauncher.exe)
 
