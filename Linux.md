@@ -3,14 +3,13 @@
 **Note:** Marne on Linux is experimental.
 
 ## 1. Install Battlefield 1
-- When prompted about the anti-cheat, **press "No"**.
+- Open press launch once. When prompted about the anti-cheat, **press "No"**. You should get an error like "steam deck not supported" just click ok.
 
 ## 2. Disable EA Anti-Cheat
 - Navigate to the game files.
 - Rename `EAAntiCheat.GameServiceLauncher.exe` to `EAAntiCheat.GameServiceLauncher.exe.bak`
+- Rename `installScript.vdf` to `installScript.vdff`
   
-  (This file may regenerate over time.)
-
 ## 3. Download & Place Required Files
 - Download and move these files to Battlefield 1's root directory:
   - [dinput8.dll](https://github.com/silkker/MARNE/raw/refs/heads/main/dinput8.dll)
@@ -27,6 +26,8 @@
   ```sh
   WINEDLLOVERRIDES="dinput8=n,b;Marne=n,b" %command%
   ```
+
+----------- This part prob gon change
 
 ## 7. Start Marne
 1. Open Task Manager (`taskmgr`), go to **File > Run New Task**, and start `MarneLauncher.exe`.
