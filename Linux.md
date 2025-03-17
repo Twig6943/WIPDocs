@@ -17,8 +17,7 @@
   - [Marne.dll](https://github.com/silkker/MARNE/raw/refs/heads/main/Marne.dll)
 
 ## 4. Install Required Dependencies
-- Install **vcrun_2017_x64** in your Wine prefix:  
-  [Download VC Redist](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- Install **vcrun2022** winetricks pkg in your wineprefix :  
 
 ## 5. Download Marne
 - [Download MarneLauncher.exe](https://raw.githubusercontent.com/silkker/MARNE/refs/heads/main/MarneLauncher.exe)
