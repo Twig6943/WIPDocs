@@ -27,13 +27,10 @@
   WINEDLLOVERRIDES="dinput8=n,b;Marne=n,b" %command%
   ```
 
------------ This part prob gon change
-
-## 7. Start Marne
-1. Open Task Manager (`taskmgr`), go to **File > Run New Task**, and start `MarneLauncher.exe`.
-2. Launch Battlefield 1 from Steam (ensure `EAAntiCheat.GameServiceLauncher.exe` has not regenerated).
-3. Click "Ok" when you see:  
+## 7. Start Battlefield 1 from steam
+1. Launch Battlefield 1 from Steam (ensure `EAAntiCheat.GameServiceLauncher.exe` has not regenerated).
+2. Click "Ok" when you see:  
    _"Please launch the game from your distribution platform."_
-4. In the launcher, press **Start Marne > Start Game**.
-
-## 8. Enjoy!
+3. Open up `MarneLauncher` from the file explorer
+4. Press Start Marne
+5. Have fun playing Marne.
