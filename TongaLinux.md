@@ -13,7 +13,7 @@
 ## 3. Download & Place Required Files
 - Download and move these files to Battlefield V's root directory:
   - [dinput8.dll](https://github.com/silkker/MARNE/raw/refs/heads/main/dinput8.dll)
-  - [Tonga.dll](https://github.com/silkker/MARNE/raw/refs/heads/main/Marne.dll)
+  - [Tonga.dll](https://marne.io/api/v/dl/stable/Tonga.dll)
 
 ## 4. Install Required Dependencies
 - Install [**vcrun_2017_x64**](https://aka.ms/vs/17/release/vc_redist.x64.exe) in your Wine prefix:  
