@@ -1,4 +1,4 @@
-# Running Marne on Linux
+# Running Tonga on Linux
 
 **Note:** Tonga on Linux is experimental.
 
