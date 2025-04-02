@@ -1,6 +1,6 @@
 # Running Marne on Linux
 
-**Note:** Marne on Linux is experimental.
+**Note:** Tonga on Linux is experimental.
 
 ## 1. Install Battlefield V
 - Open press launch once. When prompted about the anti-cheat, **press "No"**. You should get an error like "steam deck not supported" just click ok.
