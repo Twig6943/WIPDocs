@@ -29,7 +29,7 @@
 
 ## 7. Start Battlefield V from steam
 1. Launch Battlefield V from Steam (ensure `EAAntiCheat.GameServiceLauncher.exe` has not regenerated).
-2. Click "Ok" if you see any sort of errors.
+2. Click "Ok" if you see any errors.
 3. Open up `TONGALauncher` from the file explorer
 4. Press Start Tonga
 5. Have fun playing Battlefield V with Tonga.
