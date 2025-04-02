@@ -12,7 +12,7 @@
   
 ## 3. Download & Place Required Files
 - Download and move these files to Battlefield V's root directory:
-  - [dinput8.dll](https://github.com/silkker/MARNE/raw/refs/heads/main/dinput8.dll)
+  - [dinput8.dll](https://github.com/Twig6943/WIPDocs/raw/refs/heads/main/Tonga/dinput8.dll)
   - [Tonga.dll](https://marne.io/api/v/dl/stable/Tonga.dll)
 
 ## 4. Install Required Dependencies
@@ -29,8 +29,9 @@
 
 ## 7. Start Battlefield V from steam
 1. Launch Battlefield V from Steam (ensure `EAAntiCheat.GameServiceLauncher.exe` has not regenerated).
-2. Click "Ok" when you see:  
-   _"Please launch the game from your distribution platform."_
+2. Click "Ok" if you see any sort of errors.
 3. Open up `TONGALauncher` from the file explorer
-4. Press Start Marne
-5. Have fun playing Marne.
+4. Press Start Tonga
+5. Have fun playing Battlefield V with Tonga.
+
+(This should work but nobody has tested this out, if you're down to test it please hit me up on discord/matrix)
