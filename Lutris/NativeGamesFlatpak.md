@@ -24,7 +24,7 @@ Working directory: `/usr/bin/`
 
 5.It should look like this at the end
 
-![image](https://github.com/user-attachments/assets/7babf8bf-ab70-4a10-a652-423cc5eb420d)
+![image](/Lutris/Images/1.png)
 
 6. Click **Save**, and your game should now launch successfully.
 
