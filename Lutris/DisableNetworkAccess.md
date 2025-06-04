@@ -1,1 +1,1 @@
-
+`firejail --noprofile --net=none`
