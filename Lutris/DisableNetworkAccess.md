@@ -8,21 +8,23 @@ There are several ways of doing this depending on the package you're using. We'l
 
 2. Setup a rule for your runner
 
-![](/Lutris/Images/3.png)
 
 For this tutorial we'll be going with `ge-proton`
 
+![](/Lutris/Images/3.png)
+
+
 # Approach 2: Disconnecting from the internet
 
-Configure these scripts as the start and stop scripts in Lutris:
+Configure these scripts as the start and stop scripts in Lutris. Don't forget to mark them as executable.
 
-[NetworkStart](/Lutris/Scripts/NetworkEnable.sh)
+[NetworkStart](/Lutris/Scripts/EnableNetwork.sh)
 
-[NetworkStop](/Lutris/Scripts/NetworkDisable.sh)
+[NetworkStop](/Lutris/Scripts/DisableNetwork.sh)
 
 Enable `Wait for pre-launch script completion`
 
-
+![](/Lutris/Images/4.png)
 
 # Approach 3: Using the [native package with firejail](/Lutris/DisableNetworkAccess-native.md)
 
