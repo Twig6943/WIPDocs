@@ -2,18 +2,18 @@
 
 There are several ways of doing this depending on the package you're using. We'll be going with the universal method.
 
-1. Install `opensnitch` for your distribution
+# Approach 1: Blocking network access via a firewall
 
-e.g. `sudo pacman -S opensnitch`
+1. Install `opensnitch` for your distribution (e.g. `sudo pacman -S opensnitch`)
 
 2. Setup a rule for your runner
 
-3. 
+![](/Lutris/Images/3.png)
 
 For this tutorial we'll be going with `ge-proton`
 
-## [Native](/Lutris/DisableNetworkAccess-Old.md)
+# Approach 2: Disconnecting from the internet
 
-#
+``
 
-# Disconnext from internet
+# Approach 3: Using the [Native package with firejail](/Lutris/DisableNetworkAccess-native.md)
