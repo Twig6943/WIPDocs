@@ -1,14 +1,19 @@
 # Disabling network access
 
-There are several ways of doing this depending on the package you're using.
+There are several ways of doing this depending on the package you're using. We'll be going with the universal method.
 
-## Native
+1. Install `opensnitch` for your distribution
 
-### This only works with native lutris packages
+e.g. `sudo pacman -S opensnitch`
 
-`firejail --noprofile --net=none`
+2. Setup a rule for your runner
 
+3. 
 
-# Flatpak
+For this tutorial we'll be going with `ge-proton`
+
+## [Native](/Lutris/DisableNetworkAccess-Old.md)
+
+#
 
 # Disconnext from internet
