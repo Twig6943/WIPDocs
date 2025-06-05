@@ -34,6 +34,8 @@ Enable `Wait for pre-launch script completion`
 
 This only works with native lutris packages
 
-Add this `firejail --noprofile --net=none` as a `Command Prefix` to your game
+1. Install `firejail` for your distribution (e.g. `sudo pacman -S firejail`)
+
+2. Add this `firejail --noprofile --net=none` as a `Command Prefix` to your game
 
 ![](/Lutris/Images/2.png)
