@@ -30,7 +30,7 @@ Enable `Wait for pre-launch script completion`
 
 ![](/Lutris/Images/4.png)
 
-# Approach 3: Using the [native package with firejail](/Lutris/DisableNetworkAccess-native.md)
+# Approach 3: Using the native package with firejail
 
 This only works with native lutris packages
 
