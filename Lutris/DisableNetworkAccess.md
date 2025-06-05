@@ -1,6 +1,6 @@
 # Disabling network access
 
-There are several ways of doing this depending on the package you're using. We'll be going with the universal method.
+There are several ways of doing this.
 
 # Approach 1: Blocking network access via a firewall (Recommended)
 
