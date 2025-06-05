@@ -4,23 +4,27 @@ There are several ways of doing this depending on the package you're using. We'l
 
 # Approach 1: Blocking network access via a firewall (Recommended)
 
-1. Install `opensnitch` for your distribution (e.g. `sudo pacman -S opensnitch`)
+1. Install `opensnitch` (or a firewall like that) for your distribution (e.g. `sudo pacman -S opensnitch`)
 
-2. Setup a rule for your runner
+2. Setup a rule for your runner (For this tutorial we'll be going with `ge-proton` )
 
+3. Select `Reject` for the `Action`
 
-For this tutorial we'll be going with `ge-proton`
+4. Tick the `From this executable` checkbox and put the path to your runner
+
+5. Set the `Duration` to `Always`
 
 ![](/Lutris/Images/3.png)
 
+6. Click `Save`
 
 # Approach 2: Disconnecting from the internet
 
 Configure these scripts as the start and stop scripts in Lutris. Don't forget to mark them as executable.
 
-[NetworkStart](/Lutris/Scripts/EnableNetwork.sh)
+[NetworkStart.sh](/Lutris/Scripts/EnableNetwork.sh)
 
-[NetworkStop](/Lutris/Scripts/DisableNetwork.sh)
+[NetworkStop.sh](/Lutris/Scripts/DisableNetwork.sh)
 
 Enable `Wait for pre-launch script completion`
 
