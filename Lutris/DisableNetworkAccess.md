@@ -22,9 +22,9 @@ There are several ways of doing this depending on the package you're using. We'l
 
 Configure these scripts as the start and stop scripts in Lutris. Don't forget to mark them as executable.
 
-[NetworkStart.sh](/Lutris/Scripts/EnableNetwork.sh)
+[EnableNetwork.sh](/Lutris/Scripts/EnableNetwork.sh)
 
-[NetworkStop.sh](/Lutris/Scripts/DisableNetwork.sh)
+[DisableNetwork.sh](/Lutris/Scripts/DisableNetwork.sh)
 
 Enable `Wait for pre-launch script completion`
 
