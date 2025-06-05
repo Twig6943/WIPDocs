@@ -14,6 +14,8 @@ For this tutorial we'll be going with `ge-proton`
 
 # Approach 2: Disconnecting from the internet
 
-``
+[NetworkStart](/Lutris/Scripts/NetworkStart.sh)
+
+[NetworkStop](/Lutris/Scripts/NetworkStop.sh)
 
 # Approach 3: Using the [Native package with firejail](/Lutris/DisableNetworkAccess-native.md)
