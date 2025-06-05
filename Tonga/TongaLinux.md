@@ -12,7 +12,7 @@
   
 ## 3. Download & Place Required Files
 - Download and move these files to Battlefield V's root directory:
-  - [dinput8.dll](https://github.com/Twig6943/WIPDocs/raw/refs/heads/main/Tonga/dinput8.dll)
+  - [dinput8.dll](https://github.com/Twig6943/WIPDocs/raw/refs/heads/main/Tonga/Files/dinput8.dll)
   - [Tonga.dll](https://marne.io/api/v/dl/stable/Tonga.dll)
 
 ## 4. Install Required Dependencies
