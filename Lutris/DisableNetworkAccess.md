@@ -1,6 +1,6 @@
 # Disabling network access
 
-There are several ways of doing this.
+### There are several ways of doing this.
 
 # Approach 1: Blocking network access via a firewall (Recommended)
 
