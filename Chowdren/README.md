@@ -3,3 +3,9 @@
 2. Install [VCForPython27](https://github.com/fnmwolf/Anaconda/blob/main/VCForPython27.msi)
 
 3. 
+
+### Credits
+
+[KewlSokudo](https://github.com/KewlSokudo)
+
+[Twig6943](https://github.com/Twig6943)
