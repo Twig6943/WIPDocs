@@ -10,7 +10,9 @@
 
 [python-2.7.18.amd64.msi](/Chowdren/Files/python-2.7.18.amd64.msi)
 
-[Visual studio 2015](https://archive.org/details/MS_VisualStudioCommunity-2015) with C++ Desktop Build tools & Windows 10 SDK
+[Mingw]()
+
+[Visual studio 2015](https://archive.org/details/MS_VisualStudioCommunity-2015) ???
 
 [Anaconda 4](https://drive.google.com/file/d/107HcGkjQ0g3op5cMfi9FnqImLGPhOneG/view?usp=sharing)
 
@@ -28,7 +30,9 @@ python -m chowdren.run <exename> <outdir>
 
 It should convert the game's assets to `Assets.dat` format and generate bunch of .cpp files
 
-3.
+3. Open Cmake GUI and set the folder with `Assets.dat` as the `Build` folder. Set the `Build` folder inside that folder named `build`
+
+4. 
 
 PS this shit broken af and the only game that kinda works seems to be fnaf2 lmaooooo
 
