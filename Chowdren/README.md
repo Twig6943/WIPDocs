@@ -10,7 +10,7 @@
 
 [python-2.7.18.amd64.msi](/Chowdren/Files/python-2.7.18.amd64.msi)
 
-[Visual studio 2015](https://archive.org/details/MS_VisualStudioCommunity-2015) with C++ Desktop Build tools
+[Visual studio 2015](https://archive.org/details/MS_VisualStudioCommunity-2015) with C++ Desktop Build tools & Windows 10 SDK
 
 [Anaconda 4](https://drive.google.com/file/d/107HcGkjQ0g3op5cMfi9FnqImLGPhOneG/view?usp=sharing)
 
