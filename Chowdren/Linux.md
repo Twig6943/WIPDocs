@@ -21,9 +21,16 @@ python2 -m pip install Pillow==2.9.0
 python2 -m pip install setuptools==44.1.1
 ```
 
-# Decompiling your game
+# Decompiling your game (Optional) (This is mostly to test mmfparser module)
 
 ```
 cd tools
 python2 bimbam.py path/to/exe path/to/output/mfa
+```
+
+
+```sh
+cd /path/to/output
+cmake . -DCMAKE_POLICY_VERSION_MINIMUM=3.5
+make
 ```
