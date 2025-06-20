@@ -18,7 +18,7 @@ sudo python2 get-pip.py
 ```py
 python2 -m pip install Cython==0.21.2
 python2 -m pip install setuptools==44.1.1
-python2 -m pip install Pillow
+python2 -m pip install Pillow==2.9.0
 ```
 
 # Decompiling your game
