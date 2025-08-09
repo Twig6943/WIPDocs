@@ -8,7 +8,7 @@
 ## 2. Disable EA Anti-Cheat
 - Navigate to the game files.
 - Rename `EAAntiCheat.GameServiceLauncher.exe` to `EAAntiCheat.GameServiceLauncher.exe.bak`
-- Rename `installScript.vdf` to `installScript.vdff`
+- Rename `installScript.vdf` to `installScript.vdf.bak`
   
 ## 3. Download & Place Required Files
 - Download and move these files to Battlefield V's root directory:
@@ -37,4 +37,4 @@
 (This should work but nobody has tested this out, if you're down to test it please hit me up on discord/matrix)
 
 # Modding
-In order to mod the game on Linux you need to use this [patched version](https://www.nexusmods.com/masseffectandromeda/mods/1190) of frosty mod manager
+In order to mod the game on Linux you need to use this [patched version](https://www.nexusmods.com/masseffectandromeda/mods/1190) of frosty mod manager (Placeholder)
