@@ -39,6 +39,6 @@
 (This should work but nobody has tested this out, if you're down to test it please hit me up on discord/matrix)
 
 # Modding
-In order to mod the game on Linux you need to use this [patched version](https://github.com/Twig6943/FrostyToolsuiteBattlefield1Linux/releases) of frosty mod manager
+Follow the documentation [here](https://github.com/Twig6943/FrostyToolsuiteBattlefieldLinux/blob/1.0.6/Guide.md)
 
 <img src="/Tonga/Images/2.webp"/>
