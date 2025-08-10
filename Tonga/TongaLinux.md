@@ -34,6 +34,8 @@
 4. Press Start Tonga
 5. Have fun playing Battlefield V with Tonga.
 
+<img src="/Tonga/Images/1.jpg" width="600"/>
+
 (This should work but nobody has tested this out, if you're down to test it please hit me up on discord/matrix)
 
 # Modding
