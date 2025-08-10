@@ -36,8 +36,6 @@
 
 <img src="/Tonga/Images/1.webp"/>
 
-(This should work but nobody has tested this out, if you're down to test it please hit me up on discord/matrix)
-
 # Modding
 Follow the documentation [here](https://github.com/Twig6943/FrostyToolsuiteBattlefieldLinux/blob/1.0.6/Guide.md)
 
