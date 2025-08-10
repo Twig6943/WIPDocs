@@ -34,9 +34,11 @@
 4. Press Start Tonga
 5. Have fun playing Battlefield V with Tonga.
 
-<img src="/Tonga/Images/1.jpg"/>
+<img src="/Tonga/Images/1.webp"/>
 
 (This should work but nobody has tested this out, if you're down to test it please hit me up on discord/matrix)
 
 # Modding
 In order to mod the game on Linux you need to use this [patched version](https://www.nexusmods.com/masseffectandromeda/mods/1190) of frosty mod manager (Placeholder)
+
+<img src="/Tonga/Images/2.webp"/>
